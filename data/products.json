@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Fresh Bottle Gourd",
+    "category": "Vegetables",
+    "images": ["/images/bottleGourd1.jpeg","/images/bottleGourd2.jpeg","/images/bottleGourd3.jpeg"],
+    "description": "Fresh export-grade bottle gourd.",
+    "certifications": ["PhytoSanitary"],
+    "origin": "Bangladesh",
+    "packaging":"10kg per Carton (Customizable)",
+    "shipping":"AIR / SHIP (Chiller Cargo) [FOB]",
+    "moq": "500 kg"
+  },
+  {
+    "id": "2",
+    "name": "Granola Potato",
+    "category": "Potatoes",
+    "images": ["/images/granolaPotato1.jpg","/images/granolaPotato2.jpg"],
+    "description": "Fresh export-grade holland type potatoes.",
+    "certifications": ["PhytoSanitary"],
+    "origin": "Bangladesh",
+    "packaging":"10kg per Carton (Customizable)",
+    "shipping":"AIR / SHIP (Chiller Cargo) [FOB]",
+    "moq": "500 kg"
+  },
+  {
+    "id": "3",
+    "name": "Holland Potato",
+    "category": "Potatoes",
+    "images": ["/images/holandPotato.jpg","/images/holandPotato2.jpg"],
+    "description": "Fresh export-grade holland type potatoes.",
+    "certifications": ["PhytoSanitary"],
+    "origin": "Bangladesh",
+    "packaging":"10kg per Carton (Customizable)",
+    "shipping":"AIR / SHIP (Chiller Cargo) [FOB]",
+    "moq": "500 kg"
+  },
+  {
+    "id": "4",
+    "name": "Lal Pakri Potato",
+    "category": "Potatoes",
+    "images": ["/images/lalpakriPotato.jpg","/images/lalpakriPotato.png"],
+    "description": "Fresh export-grade Lal Pakri Potato.",
+    "certifications": ["PhytoSanitary"],
+    "origin": "Bangladesh",
+    "packaging":"10kg per Carton (Customizable)",
+    "shipping":"AIR / SHIP (Chiller Cargo) [FOB]",
+    "moq": "500 kg"
+  },
+  {
+    "id": "5",
+    "name": "Lal Pakri Potato",
+    "category": "Potatoes",
+    "images": ["/images/lalpakriPotato.jpg","/images/lalpakriPotato.png"],
+    "description": "Fresh export-grade Lal Pakri Potato.",
+    "certifications": ["PhytoSanitary"],
+    "origin": "Bangladesh",
+    "packaging":"10kg per Carton (Customizable)",
+    "shipping":"AIR / SHIP (Chiller Cargo) [FOB]",
+    "moq": "500 kg"
+  }
+]
